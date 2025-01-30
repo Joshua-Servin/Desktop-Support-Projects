@@ -19,8 +19,8 @@ This project is a walkthrough on how to create an OU and a User inside the OU.
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open "Active Directory Users and Computers" under the "Tools" tab on the top right: <br/>
+<img src="https://imgur.com/7GZOlRQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
