@@ -17,18 +17,18 @@ This project is a walkthrough on how to create an OU and a User inside the OU.
 - <b>Windows Server 2019</b> (22H2)
 
 <h2>Project walk-through:</h2>
-
+https://imgur.com/zTxT0bw
 <p align="center">
 Open "Active Directory Users and Computers" under the "Tools" tab on the top right: <br/>
 <img src="https://imgur.com/7GZOlRQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Find your Domain:  <br/>
+<img src="https://imgur.com/h8F6PcV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Right click, hover over "New" and click on "Organizational Unit": <br/>
+<img src="https://imgur.com/zTxT0bw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
